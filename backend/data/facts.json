@@ -1,0 +1,21 @@
+{
+  "full_name": "Maryam Gh",
+  "name": "Maryam",
+  "current_role": "Data Scientist",
+  "location": "Canada",
+  "email": "maryam.gh@gmail.com",
+  "linkedin": "linkedin.com/in/maryam-gh",
+  "specialties": [
+    "Machine Learning",
+    "Data Science",
+    "Generative AI"
+  ],
+    "years_experience": 7,
+  "education": [
+    {
+      "degree": "Master of Science in Data Science",
+      "institution": "University of Toronto",
+      "year": "2020"
+    }
+  ]
+}
